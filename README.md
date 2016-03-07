@@ -10,10 +10,6 @@ simulates the real world in 3D and the viewing plane with reference to viewing c
 
 Number of Projects : 4
 
-1)Ray Tracer
-
-Implemented Recursive RayTracing with global and local illumination model
-
 3. PixarAnimation
 
 Pixar animation is implemented with Hierarchical modeling
