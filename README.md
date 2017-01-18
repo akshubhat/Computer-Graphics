@@ -1,6 +1,6 @@
 ## Graphics
 
-Some of the Graphics Projects I have implemented during course [Computer Graphics](http://www.cse.iitd.ernet.in/~pkalra/csl781/)
+Some of the Graphics Projects I have implemented during course [Computer Graphics](http://www.cse.iitd.ernet.in/~pkalra/col781/)
 
 1. 3D viewing Pipeline
 
